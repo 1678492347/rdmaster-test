@@ -1,0 +1,151 @@
+{
+  "id": "28285769",
+  "subject": {
+    "id": "1:II-3",
+    "ageAtCollection": {
+      "age": "P20Y"
+    }
+  },
+  "phenotypicFeatures": [{
+    "type": {
+      "id": "HP:0001156",
+      "label": "Brachydactyly"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0010761",
+      "label": "Broad columella"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000957",
+      "label": "Cafe-au-lait spot"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0031936",
+      "label": "Delayed ability to walk"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000750",
+      "label": "Delayed speech and language development"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000494",
+      "label": "Downslanted palpebral fissures"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0002007",
+      "label": "Frontal bossing"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000369",
+      "label": "Low-set ears"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000347",
+      "label": "Micrognathia"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000510",
+      "label": "Rod-cone dystrophy"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0004322",
+      "label": "Short stature"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }],
+  "metaData": {
+    "created": "2022-12-28T10:07:55.250Z",
+    "createdBy": "HPO:rrabbit",
+    "resources": [{
+      "id": "hp",
+      "name": "human phenotype ontology",
+      "url": "http://purl.obolibrary.org/obo/hp.owl",
+      "version": "unknown HPO version",
+      "namespacePrefix": "HP",
+      "iriPrefix": "http://purl.obolibrary.org/obo/HP_"
+    }, {
+      "id": "eco",
+      "name": "Evidence and Conclusion Ontology",
+      "url": "http://purl.obolibrary.org/obo/eco.owl",
+      "version": "2019-10-16",
+      "namespacePrefix": "ECO",
+      "iriPrefix": "http://purl.obolibrary.org/obo/ECO_"
+    }],
+    "phenopacketSchemaVersion": "1.0.0"
+  }
+}

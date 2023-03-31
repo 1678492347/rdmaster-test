@@ -1,0 +1,273 @@
+{
+  "id": "28148688",
+  "subject": {
+    "id": "P3",
+    "ageAtCollection": {
+      "age": "P2Y5M"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [{
+    "type": {
+      "id": "HP:0000498",
+      "label": "Blepharitis"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0001156",
+      "label": "Brachydactyly"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0008445",
+      "label": "Cervical spinal canal stenosis"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0010605",
+      "label": "Chalazion"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0002812",
+      "label": "Coxa vara"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000565",
+      "label": "Esotropia"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0001263",
+      "label": "Global developmental delay"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0030043",
+      "label": "Hip subluxation"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0002155",
+      "label": "Hypertriglyceridemia"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0001252",
+      "label": "Hypotonia"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0030320",
+      "label": "Increased intervertebral space"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0009826",
+      "label": "Limb undergrowth"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0002938",
+      "label": "Lumbar hyperlordosis"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000767",
+      "label": "Pectus excavatum"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000926",
+      "label": "Platyspondyly"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000331",
+      "label": "Short chin"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0020206",
+      "label": "Simple ear"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0002652",
+      "label": "Skeletal dysplasia"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0005403",
+      "label": "T lymphocytopenia"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0002943",
+      "label": "Thoracic scoliosis"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0005619",
+      "label": "Thoracolumbar kyphosis"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0006610",
+      "label": "Wide intermamillary distance"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }],
+  "metaData": {
+    "created": "2022-12-30T05:46:42.099Z",
+    "createdBy": "HPO:rrabbit",
+    "resources": [{
+      "id": "hp",
+      "name": "human phenotype ontology",
+      "url": "http://purl.obolibrary.org/obo/hp.owl",
+      "version": "unknown HPO version",
+      "namespacePrefix": "HP",
+      "iriPrefix": "http://purl.obolibrary.org/obo/HP_"
+    }, {
+      "id": "eco",
+      "name": "Evidence and Conclusion Ontology",
+      "url": "http://purl.obolibrary.org/obo/eco.owl",
+      "version": "2019-10-16",
+      "namespacePrefix": "ECO",
+      "iriPrefix": "http://purl.obolibrary.org/obo/ECO_"
+    }],
+    "phenopacketSchemaVersion": "1.0.0"
+  }
+}

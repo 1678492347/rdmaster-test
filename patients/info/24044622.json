@@ -1,0 +1,208 @@
+{
+  "id": "24044622",
+  "subject": {
+    "id": "patient",
+    "ageAtCollection": {
+      "age": "P12Y"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [{
+    "type": {
+      "id": "HP:0000707",
+      "label": "Abnormality of the nervous system"
+    },
+    "negated": true,
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0001369",
+      "label": "Arthritis"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0002110",
+      "label": "Bronchiectasis"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0030084",
+      "label": "Clinodactyly"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0005197",
+      "label": "Generalized morning stiffness"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0030838",
+      "label": "Hip pain"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0001511",
+      "label": "Intrauterine growth retardation"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000400",
+      "label": "Macrotia"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000252",
+      "label": "Microcephaly"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000388",
+      "label": "Otitis media"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0012531",
+      "label": "Pain"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0002090",
+      "label": "Pneumonia"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0001159",
+      "label": "Syndactyly"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0100769",
+      "label": "Synovitis"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000582",
+      "label": "Upslanted palpebral fissure"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0001045",
+      "label": "Vitiligo"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }],
+  "metaData": {
+    "created": "2022-10-17T12:51:19.142Z",
+    "createdBy": "HPO:rrabbit",
+    "resources": [{
+      "id": "hp",
+      "name": "human phenotype ontology",
+      "url": "http://purl.obolibrary.org/obo/hp.owl",
+      "version": "unknown HPO version",
+      "namespacePrefix": "HP",
+      "iriPrefix": "http://purl.obolibrary.org/obo/HP_"
+    }, {
+      "id": "eco",
+      "name": "Evidence and Conclusion Ontology",
+      "url": "http://purl.obolibrary.org/obo/eco.owl",
+      "version": "2019-10-16",
+      "namespacePrefix": "ECO",
+      "iriPrefix": "http://purl.obolibrary.org/obo/ECO_"
+    }],
+    "phenopacketSchemaVersion": "1.0.0"
+  }
+}

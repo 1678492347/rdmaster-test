@@ -1,0 +1,64 @@
+{
+  "id": "0204341",
+  "subject": {
+    "id": "0204341",
+    "ageAtCollection": {
+      "age": "P1M"
+    },
+    "sex": "FEMALE"
+  },
+  "phenotypicFeatures": [{
+    "type": {
+      "id": "HP:0006487",
+      "label": "Bowing of the long bones"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0002659",
+      "label": "Increased susceptibility to fractures"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }, {
+    "type": {
+      "id": "HP:0000938",
+      "label": "Osteopenia"
+    },
+    "evidence": [{
+      "evidenceCode": {
+        "id": "ECO:0000302",
+        "label": "author statement used in manual assertion"
+      }
+    }]
+  }],
+  "metaData": {
+    "created": "2022-10-11T07:21:34.066Z",
+    "createdBy": "HPO:rrabbit",
+    "resources": [{
+      "id": "hp",
+      "name": "human phenotype ontology",
+      "url": "http://purl.obolibrary.org/obo/hp.owl",
+      "version": "unknown HPO version",
+      "namespacePrefix": "HP",
+      "iriPrefix": "http://purl.obolibrary.org/obo/HP_"
+    }, {
+      "id": "eco",
+      "name": "Evidence and Conclusion Ontology",
+      "url": "http://purl.obolibrary.org/obo/eco.owl",
+      "version": "2019-10-16",
+      "namespacePrefix": "ECO",
+      "iriPrefix": "http://purl.obolibrary.org/obo/ECO_"
+    }],
+    "phenopacketSchemaVersion": "1.0.0"
+  }
+}
