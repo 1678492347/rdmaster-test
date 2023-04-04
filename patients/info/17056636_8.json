@@ -21,18 +21,6 @@
     }]
   }, {
     "type": {
-      "id": "HP:0000478",
-      "label": "Abnormality of the eye"
-    },
-    "negated": true,
-    "evidence": [{
-      "evidenceCode": {
-        "id": "ECO:0000302",
-        "label": "author statement used in manual assertion"
-      }
-    }]
-  }, {
-    "type": {
       "id": "HP:0000951",
       "label": "Abnormality of the skin"
     },
